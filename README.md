@@ -5,4 +5,13 @@
      <img align='center' src= "https://i.postimg.cc/WpFxQcY8/5.png">
       <img align='center' src= "https://i.postimg.cc/2yZJvnLM/6.png">
       <img align='center' src= "https://i.postimg.cc/TPtZXdX7/7.png">
+      
+      <img align='center' src= "https://i.postimg.cc/Ssw4JcYX/g1.png">
+      <img align='center' src= "https://i.postimg.cc/FKCNXM9V/g2.png">
+      <img align='center' src= "https://i.postimg.cc/76CDHKh8/g3.png">
+      <img align='center' src= "https://i.postimg.cc/BQ2SP7gJ/g4.png">
+      <img align='center' src= "https://i.postimg.cc/Bvn4ySGv/g5.png">
+      <img align='center' src= "https://i.postimg.cc/bwTq3GWM/g6.png">
+      
+      
       <img align='center' src= "https://i.postimg.cc/nzMNFyFH/8.png">
