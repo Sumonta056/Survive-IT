@@ -8,6 +8,8 @@
  - Install Intellij 
  - Open the game folder as project
  - Run the file desktop.launcher.java
+ 
+ # Presentation of Game
 
 
 <img align='center' src= "https://i.postimg.cc/KjkfwFZM/1.png">
