@@ -1,4 +1,16 @@
- <img align='center' src= "https://i.postimg.cc/KjkfwFZM/1.png">
+# System Requirements
+ - Windows 10/11 + 
+ - Java 8.0 +
+ - IntellIj
+
+ # Install Notes
+ - Download the Game
+ - Install Intellij 
+ - Open the game folder as project
+ - Run the file desktop.launcher.java
+
+
+<img align='center' src= "https://i.postimg.cc/KjkfwFZM/1.png">
   <img align='center' src= "https://i.postimg.cc/sgrFYHcc/2.png">
    <img align='center' src= "https://i.postimg.cc/y6M2KpwH/3.png">
     <img align='center' src= "https://i.postimg.cc/MT4Nv9H1/4.png">
