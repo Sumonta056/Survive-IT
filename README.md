@@ -9,6 +9,8 @@
  - Open the game folder as project
  - Run the file desktop.launcher.java
  
+ # Game Play Vide0 ( <a href = "https://drive.google.com/file/d/12wUyBhKXuZoO4dSbZfLmg33dMirEUSb2/view?usp=sharing" ><b>[Click Here]</b></a> )
+ 
  # Presentation of Game
 
 
